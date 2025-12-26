@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "5c7e68b1-4d4b-4484-8a79-473fbfe175ba": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=GBttpbFS-nc",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Amalia Ulman Today",
+  "av_file_order": [
+    "5c7e68b1-4d4b-4484-8a79-473fbfe175ba"
+  ],
+  "created_at": "2025-12-26T02:59:03.558Z",
+  "created_by": "faguero123",
+  "updated_at": "2025-12-26T02:59:03.558Z",
+  "updated_by": "faguero123"
+}

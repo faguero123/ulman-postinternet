@@ -1,5 +1,510 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speakers frame the week of performances as a lens to examine audience engagement and scripted social media interactions. They emphasize how performances blur the line between authentic labor and performative labor, positioning bodies and digital presence as sites of both artistic and social experimentation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "6c7471cd-86f7-4eb4-bbb9-f92163258a67"
+    },
+    {
+      "start_time": 312,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion centers on Ulman’s use of social media to explore the visibility of unpaid digital labor. By curating content and controlling temporal release, Ulman highlights the labor inherent in maintaining an online persona, linking it to broader conversations about gendered expectations in digital spaces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "5a9e09b8-98a4-45f6-9713-ba5e70eac0bf"
+    },
+    {
+      "start_time": 645,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examines the aesthetic strategies of Excellences & Perfections, where careful staging and performative gestures create a sense of perfection and polish. These strategies interrogate the notion of legitimacy in art, exploring how audiences attribute value to visible labor and curated appearances."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "21b0004b-76b6-4ae2-a9e4-e5173611deb0"
+    },
+    {
+      "start_time": 930,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Considers audience manipulation through narrative pacing and digital interaction design. By structuring content in serialized formats, Ulman engages audiences’ expectations and emotional investment, revealing the mechanics of attention economies in online culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "b4122ed0-04e2-4f05-8213-0156ac3e6283"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The conversation turns to gendered perceptions of labor and creativity. Ulman’s project foregrounds the gendered scripts that shape reception of performance work, demonstrating how digital platforms can both reinforce and challenge art-world biases."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "138a4264-e740-4c28-8441-72fc6249c647"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 2000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explores how social media constraints shape creative practices. Limitations like image quotas and timed releases create aesthetic frameworks that both restrict and inspire users, similar to European working-class aesthetics in their emphasis on discipline and ingenuity under constraint."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "10fa3fc1-4728-42f6-b29f-ba89b1b048cb"
+    },
+    {
+      "start_time": 2000,
+      "end_time": 2280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses the intersection of neurodivergence and scripted performance. By highlighting rigid structures in content production, Ulman’s work surfaces how audiences perceive controlled versus spontaneous labor, revealing assumptions about cognitive ability and artistic authenticity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Neurodivergence and Scripted Performance",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "428aed1c-59b1-4278-94f1-ca0e3d5148a0"
+    },
+    {
+      "start_time": 2280,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examines commodification of suffering in social media documentation. Ulman’s strategic visibility of struggle and exhaustion in labor frames emotional labor as both performative and consumable, prompting reflection on the ethics of audience engagement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "2c45d6e2-70e7-4448-be47-615d1f8ea14f"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 2730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Analyzes how subcultural identity and online community norms inform digital aesthetics. Photolog and similar platforms provided spaces for collective recognition, establishing a logic of taste, distinction, and belonging that persists in contemporary digital subcultures."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "2a0ddea3-b331-4bcb-b831-c71e2872b656"
+    },
+    {
+      "start_time": 2730,
+      "end_time": 2930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explores visual strategies of legitimacy through careful composition, lighting, and repetition. These methods demonstrate the labor of self-presentation and the creation of perceived expertise, linking back to the larger theme of Excellences & Perfections."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "2d25c76f-60b8-4a47-88cd-fb21add09334"
+    },
+    {
+      "start_time": 2930,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of how digital labor remains largely uncompensated, especially when embedded in creative platforms. Ulman’s approach demonstrates the tension between visibility, recognition, and economic reward in online artistic labor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a38204ec-c014-4c2e-b16f-c4a1f7e868b2"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explores audience expectation and emotional engagement, highlighting how serialized content encourages active participation and sustained attention. This analysis foregrounds the mechanics of manipulation inherent in digital storytelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "f02ffaaa-3fdf-4cff-aeb6-3ed9e3d67967"
+    },
+    {
+      "start_time": 3230,
+      "end_time": 3330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reflects on gendered interpretation of labor and skill in online performance. The work challenges assumptions about who produces labor that is culturally valued versus dismissed, interrogating art-world hierarchies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "5a28d190-97fe-44a0-b1eb-e2011f8c0017"
+    },
+    {
+      "start_time": 3330,
+      "end_time": 3420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses aesthetics of control and refinement in staged social media posts, connecting visual perfection to perceptions of authenticity, authority, and artistic expertise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "019fb95d-315f-42c4-b196-4bed099ee5a0"
+    },
+    {
+      "start_time": 3420,
+      "end_time": 3510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examines the intersection of subcultural practices with platform limitations, demonstrating how constraints like post frequency shape creative expression and community participation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "5fa04e51-95c0-41d6-9296-6b58d488adc0"
+    },
+    {
+      "start_time": 3510,
+      "end_time": 3550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Addresses broader ethical implications of digital labor visibility, emphasizing audience complicity and the tension between voyeurism and appreciation in online performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "f0e6d245-4d86-47f3-9650-6945b4bb5894"
+    },
+    {
+      "start_time": 3550,
+      "end_time": 3597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reflections on how performance, labor, and social media interaction intersect to create temporally framed, highly curated experiences that redefine notions of artistic and digital legitimacy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "b3aa971a-6429-4f36-976c-41895c5206ae"
+    },
+    {
+      "start_time": 3554,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Examines the body as historically constructed and commodified through labor, capitalism, and patriarchal structures, emphasizing mutability and performative possibilities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "52a03e53-3101-48c7-8415-65354d2027b3"
+    },
+    {
+      "start_time": 3660,
+      "end_time": 3815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses social signaling in digital spaces, including selfies and image backgrounds, and explores how audience attention mediates gendered and eroticized performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "8751a743-363f-4ca2-8748-51242b24fd0e"
+    },
+    {
+      "start_time": 3815,
+      "end_time": 3945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Analyzes femininity as a socially constructed and performative set of symbols, linking body representation to aesthetics, social fiction, and identity manipulation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a1e90ae9-2fcc-43bd-9391-90f6ce918e4b"
+    },
+    {
+      "start_time": 3945,
+      "end_time": 4083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explores the labor of digital performance, including separation of personal life and content production, highlighting strategies to manage emotional and physical effort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "b794d655-48f1-4041-b22c-b563f0c97287"
+    },
+    {
+      "start_time": 4083,
+      "end_time": 4293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reflects on embodiment, vulnerability, and social constraints, critiquing simplistic empowerment narratives and examining permeability, presence, and structural oppression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a402ce79-fe03-4bb4-b613-7a104497289c"
+    },
+    {
+      "start_time": 4293,
+      "end_time": 4734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connects personal experience and subcultural knowledge to online performance, including networked subcultures (e.g., Black Tumblr), demonstrating circulation and critical engagement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "5ae89275-d5f0-4288-8e4d-dad7a3eb96e1"
+    },
+    {
+      "start_time": 4734,
+      "end_time": 5000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Considers recombinant digital image circulation, the shifting social value of bodies online, and structural inequalities in digital representation, with some optimism for diversification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "84c3b378-c65a-4856-91d0-6b781e5b1edd"
+    }
+  ],
   "set": "Default",
   "event_id": "eb4c0698-ba9d-4e12-9ff7-2f6ea0eb5071",
   "source_id": "d0847457-ce6d-439c-98d9-7f1907582740"

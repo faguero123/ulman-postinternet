@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is Postinernt Art?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Postinternet art refers to a “splintered and loosely defined” tendency that entered mainstream art-world discourse in the early 2010s. Often cited as the “last major ‘movement’ in contemporary art” before the field became increasingly atomized, it remains an “odd, elusive, and perhaps ‘embarrassing’ neologism.” As Brian Droitcour noted, “[m]ost people I know think ‘Post-Internet’ is embarrassing to say out loud.” Crucially, the term does not describe art on the internet but art made after the internet—art that assumes an environment in which the web has become an “inescapable, essential” and effectively “disappeared” condition of life. Postinternet work is therefore seen as reflecting the “cultural logic of the internet-enabled stage of late capitalism in the 2010s.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Departing from the earlier tradition of net.art—which was created for and experienced through web browsers—Postinternet art arises from the experience of being online, even if it is not itself encountered in digital space. It is shaped by conditions such as “ubiquitous authorship, the development of attention as currency, the collapse of physical space in networked culture, and the infinite reproducibility and mutability of digital materials.” Yet this approach attracted significant critique. Opponents argued that Postinternet art’s political stance was vague, its criticality thin, and its methods complicit with the very capitalist logics it purported to expose—claiming the work didn’t address anything critically but instead merely capitalized on those structures. The resulting aesthetic is frequently characterized as “highly superficial, glossy, and seeped in indifference,” sometimes deploying “meme-like qualities to circulate through artistic and non-artistic networks.”."
+        }
+      ]
+    }
+  ],
+  "title": "What is Postinternet Art?",
+  "parent": "fe03342d-a95d-4e9c-a4a2-e79424ffa79f",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "what-is-postinternet-art",
+  "created_at": "2025-12-26T04:59:56.405Z",
+  "created_by": "faguero123",
+  "updated_at": "2025-12-26T04:59:56.405Z",
+  "updated_by": "faguero123"
+}

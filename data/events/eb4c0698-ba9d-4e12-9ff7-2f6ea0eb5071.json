@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "d0847457-ce6d-439c-98d9-7f1907582740": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://www.youtube.com/watch?v=EgSlxB3bwO8",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "ICA Off-Site: Do You Follow? Art in Circulation #3",
+  "av_file_order": [
+    "d0847457-ce6d-439c-98d9-7f1907582740"
+  ],
+  "created_at": "2025-12-26T03:33:33.926Z",
+  "created_by": "faguero123",
+  "updated_at": "2025-12-26T03:33:33.926Z",
+  "updated_by": "faguero123"
+}

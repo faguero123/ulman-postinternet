@@ -24,11 +24,65 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Project / Work",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Theme",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Relevant Background",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        },
+        {
+          "tag": "Video Essays",
+          "category": "Project / Work"
+        },
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        },
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        },
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        },
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        },
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        },
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Neurodivergence and Scripted Performance",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ]
     },
     "created_at": "2025-12-26T02:17:48.316Z",
-    "updated_at": "2025-12-26T02:37:49.874Z",
+    "updated_at": "2025-12-26T02:56:42.298Z",
     "generate_pages_site": false
   },
   "annotations": {},

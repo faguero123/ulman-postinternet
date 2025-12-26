@@ -1,5 +1,333 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction to Cultural Matter Season 2 and its focus on digital art and how digital practices reshape artistic production and art history. The organizers contextualize the series’ shift from physical exhibitions in Amsterdam to an online format due to COVID-19, and introduce the new online “edition page” as a growing archive. Amalia Ulman is introduced as the featured artist, with brief references to her earlier Instagram performance Excellences & Perfections and the later project Privilege."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "c1f13362-b1ea-4f8d-b3cf-686b7ee637eb"
+    },
+    {
+      "start_time": 570,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susan Gibb opens the conversation by asking about the genesis of Privilege. Ulman explains how Privilege emerged as a response to Excellences & Perfections, using Instagram again but with greater aesthetic and narrative freedom. She reflects on how Excellences simplified her practice for accessibility, while Privilege allowed her to reintroduce installation, performance, and cinematic elements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "0ec93e0b-9c1c-4c6f-899c-dea062713ec5"
+    },
+    {
+      "start_time": 900,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman discusses the office setting at 811 Wilshire in Los Angeles as a central “character” in Privilege. She describes LA’s empty downtown offices as spaces that perform legitimacy while remaining hollow, connecting this to Hollywood, set design, and fiction. The work consciously embraces artificiality rather than realism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "8dc300c4-891f-42b6-8cab-4685e5ae1aa6"
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The conversation turns to Ulman’s performance method and duration. She explains how she compartmentalizes character work to avoid psychological exhaustion and how real-world events, especially the 2016 U.S. election, reshaped Privilege’s narrative trajectory. Duration becomes a narrative tool rather than a fixed plan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Performance Method"
+        }
+      ],
+      "uuid": "70effd5c-44a5-43e7-985c-211f020d3947"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman reflects on her use of scripted PowerPoint lectures and video essays as artworks in themselves. Originally developed to maintain control during artist talks and accommodate her neurodivergence, these presentations evolved into performative extensions of her projects, including Agenda and later talks connected to her filmmaking practice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Neurodivergence and Scripted Performance",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Video Essays",
+          "category": "Project / Work"
+        }
+      ],
+      "uuid": "fb87f83d-35b1-477b-a46c-beee80e04cf5"
+    },
+    {
+      "start_time": 1470,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of labor, gender, and class. Ulman situates her interest in these themes within her upbringing in a Latin American household, her mother’s experience as a trophy wife, and her later cultural shock when moving to London. Rather than adopting feminism as a theoretical framework, Ulman emphasizes working from lived experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        },
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "ce199a0f-17d2-4dd8-8313-669cb03df6db"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman discusses identity, language, and cultural context, including her return to Spanish-language work in her feature film. She explains how performing identity has always been part of her practice, even in Spain, where she and her mother are immigrants. English-language work is framed as a pragmatic strategy for visibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "8148b42a-65b9-4de7-843a-f4ce64beed19"
+    },
+    {
+      "start_time": 1890,
+      "end_time": 2070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The conversation addresses Ulman’s “democratic” approach to media distribution. She reflects on why her work appears across fashion magazines, social media, exhibitions, and film, and how accessibility matters to her, particularly for audiences outside major art centers and for people experiencing illness or isolation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "0a79c2fe-a04b-43e0-b478-22746bde140f"
+    },
+    {
+      "start_time": 2070,
+      "end_time": 2250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience participation and online reception are discussed. Ulman explains her limited engagement with comments to preserve ambiguity and narrative openness. She recalls how harassment and bullying during Excellences & Perfections became an unplanned but essential part of the work’s meaning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "b30789b9-239c-49a0-bfd4-dd808c34ccb5"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extended discussion of Bob the Pigeon, Privilege’s sidekick character. Ulman describes choosing a pigeon specifically because of its perceived banality and repulsiveness, her evolving relationship with Bob as a real animal, and how his personality shaped the work. The later Bob-centered video emerges from personal archival footage after his disappearance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "14be3520-6c0d-4736-b95a-88b1190c5dd1"
+    },
+    {
+      "start_time": 2670,
+      "end_time": 2910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ulman explains the archival logic of Privilege, including its dedicated website and book. She emphasizes the difficulty of representing a sprawling, multi-year project and how narrative coherence motivated her later move toward feature filmmaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "37e2560d-7369-4e74-9bf1-d8c119445a01"
+    },
+    {
+      "start_time": 2910,
+      "end_time": 3300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience question about Instagram as a creative platform. Ulman discusses platform constraints, emphasizing Instagram’s former chronological structure as crucial to narrative storytelling. She notes that the same work would be impossible on today’s algorithm-driven feeds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "3c1eb740-b5d5-4170-b4d7-ab6b4f3f9ad8"
+    },
+    {
+      "start_time": 3300,
+      "end_time": 3690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of Ulman’s aesthetic strategy and attraction to “bland,” institutional, or repulsive spaces. She explains her interest in neutrality as a power construct tied to colonial and Western aesthetics, and how her upbringing shaped her sensitivity to supposedly “normal” environments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "590455fd-86e1-49ab-a978-004768959286"
+    },
+    {
+      "start_time": 3690,
+      "end_time": 4170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further audience questions on followers, influence, and project beginnings. Ulman describes her work as largely reactionary—responding to audience expectations and prior projects rather than seeking growth metrics. She emphasizes long periods of internal conceptual development followed by focused execution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "b09d93b1-1a77-4afa-a462-ca758837bd4b"
+    },
+    {
+      "start_time": 4170,
+      "end_time": 4410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing remarks. The organizers thank Ulman and Gibb, highlight the upcoming second talk with curator João Ribas, and encourage viewers to explore the online edition archive. The session ends with acknowledgments and farewells."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "568c5756-9409-4c48-8383-1d06a0533a7d"
+    }
+  ],
   "set": "Default",
   "event_id": "e3570136-0bcc-43ca-834f-6ecdef3e34c7",
   "source_id": "b9111211-3d70-4221-b1f7-62d1317e8fa5"

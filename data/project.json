@@ -1,1 +1,121 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":true},"users":[{"login_name":"faguero123","avatar_url":"https://avatars.githubusercontent.com/u/183631483?v=4","admin":true}],"project":{"github_org":"faguero123","is_private":false,"title":"Amalia Ulman and Postinternet Art","description":"A project tracing artist Amalia Ulman's career progression and her relationship with Postinternet Art.","language":"en","slug":"ulman-postinternet","creator":"faguero123","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Project / Work","color":"#ADFFD9"},{"category":"Theme","color":"#ADFEFF"},{"category":"Relevant Background","color":"#99E6FF"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Excellences & Perfections (E&P)","category":"Project / Work"},{"tag":"Video Essays","category":"Project / Work"},{"tag":"Gendered Art World Bias","category":"Theme"},{"tag":"Audience Manipulation","category":"Theme"},{"tag":"Uncompensated Digital Labor","category":"Theme"},{"tag":"Aesthetics of Legitimacy","category":"Theme"},{"tag":"Commodification of Suffering","category":"Theme"},{"tag":"European Working-Class Aesthetics","category":"Relevant Background"},{"tag":"Neurodivergence and Scripted Performance","category":"Relevant Background"},{"tag":"Subcultural Internet Use","category":"Relevant Background"},{"category":"_uncategorized_","tag":"Postinternet Art"},{"category":"_uncategorized_","tag":"Performance Method"}]},"created_at":"2025-12-26T02:17:48.316Z","updated_at":"2025-12-26T03:43:41.570Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"fe03342d-a95d-4e9c-a4a2-e79424ffa79f":{"content":[],"created_at":"2025-12-26T02:17:48.336Z","created_by":"faguero123","title":"Amalia Ulman and Postinternet Art","updated_at":"2025-12-26T02:17:48.336Z","updated_by":"faguero123","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["fe03342d-a95d-4e9c-a4a2-e79424ffa79f"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": true
+  },
+  "users": [
+    {
+      "login_name": "faguero123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183631483?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "faguero123",
+    "is_private": false,
+    "title": "Amalia Ulman and Postinternet Art",
+    "description": "A project tracing artist Amalia Ulman's career progression and her relationship with Postinternet Art.",
+    "language": "en",
+    "slug": "ulman-postinternet",
+    "creator": "faguero123",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Project / Work",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Theme",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Relevant Background",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excellences & Perfections (E&P)",
+          "category": "Project / Work"
+        },
+        {
+          "tag": "Video Essays",
+          "category": "Project / Work"
+        },
+        {
+          "tag": "Gendered Art World Bias",
+          "category": "Theme"
+        },
+        {
+          "tag": "Audience Manipulation",
+          "category": "Theme"
+        },
+        {
+          "tag": "Uncompensated Digital Labor",
+          "category": "Theme"
+        },
+        {
+          "tag": "Aesthetics of Legitimacy",
+          "category": "Theme"
+        },
+        {
+          "tag": "Commodification of Suffering",
+          "category": "Theme"
+        },
+        {
+          "tag": "European Working-Class Aesthetics",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Neurodivergence and Scripted Performance",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Subcultural Internet Use",
+          "category": "Relevant Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Postinternet Art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Performance Method"
+        }
+      ]
+    },
+    "created_at": "2025-12-26T02:17:48.316Z",
+    "updated_at": "2025-12-26T04:58:07.576Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "fe03342d-a95d-4e9c-a4a2-e79424ffa79f": {
+      "content": [],
+      "created_at": "2025-12-26T02:17:48.336Z",
+      "created_by": "faguero123",
+      "title": "Amalia Ulman and Postinternet Art",
+      "updated_at": "2025-12-26T02:17:48.336Z",
+      "updated_by": "faguero123",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "fe03342d-a95d-4e9c-a4a2-e79424ffa79f"
+  ]
+}
